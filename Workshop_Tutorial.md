@@ -1,4 +1,4 @@
-#Making Your Own Workshop
+# Making Your Own Workshop
 1. Create a new repo under the HackBI GitHub organization: go to https://github.com/HackBI/ and press "New"
 If you're updating an old workshop for a newer HackBI, you can use the GitHub repo for the old one. Make sure you don't mess with the commit history of the old workshop so it's possible to go back and look at it.
 2. For your description, make sure to include which HackBI it's for (III, IV, etc.). If you're making changes to an older workshop for a newer HackBI, you can change the description to match.
