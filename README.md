@@ -1,5 +1,6 @@
 # [Put language/program here] Workshop
 ###### Make sure that the name of your repo and workshop title ends with "Workshop". 
+![HackBI Logo](https://github.com/HackBI/Workshop-Template-Hack-BI-IV/blob/master/download.jpg)
 
 ## Get Started
 Explain what people attending your workshop need. What do they need to download? Do they need to make accounts? etc.
